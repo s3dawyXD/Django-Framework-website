@@ -1,2 +1,3 @@
 # Django-Framework-website
-Django customer management platform
+Full functional website using Python Django Framework
+
